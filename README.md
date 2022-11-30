@@ -1,3 +1,9 @@
+Team 9
+Roll numbers:
+- 2002111009 (Aditya Harikrish)
+- 2022711001 (Debashis Barik)
+
+
 # Drug-Target
 
 This repository contain the data and MATLAB code for the paper :
