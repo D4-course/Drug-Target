@@ -2,7 +2,7 @@
 
 This repository contain the data and MATLAB code for the paper :
 
-Descripotion:
+## Description
 
 Two algorithms are applied to select important proteins.
 The first Algorithm approximates the balanced partitioning problem with spectral partitioning. In this algorithm, we try to disrupt the maximum number of backup pathways with the removal of the minimum number of essential proteins.
@@ -25,11 +25,10 @@ ProteinIDrelated to its nodes from all proteins in the Example.mat file.
 
 The second Algorithm tries to cause maximum disruption in the network by selecting the least number of essential proteins. The measure for selecting these essential proteins is a value called betweenness and  available here http://bs.ipm.ac.ir/softwares/DPC/DPC.zip
 
+## Using the docker file
 
-
-
-
-
-
-
-
+First ensure docker is running as a service.
+```
+cd drug-appdocker
+sudo docker run --rm -e "DISPLAY=:0" -v /tmp/.X11-unix:/tmp/.X11-unix drug-app <input arguments>
+```
