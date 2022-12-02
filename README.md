@@ -3,6 +3,9 @@ Roll numbers:
 - 2002111009 (Aditya Harikrish)
 - 2022711001 (Debashis Barik)
 
+Video (due to technical issues, it is split into two parts):
+1. Part 1: https://www.youtube.com/watch?v=i55u5Uf7HO4
+2. Part 2: https://www.youtube.com/watch?v=wgWF8tzOXAs
 
 # Drug-Target
 
